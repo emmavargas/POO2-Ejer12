@@ -44,6 +44,7 @@ public class Hotel {
         }
         return result;
     }
+
     public int[] cantidadDeHabitacionConXPersonas()
     {
         int[] result = new int[9];

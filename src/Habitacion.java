@@ -9,7 +9,6 @@ public class Habitacion {
         this.cantNiños = b;
     }
 
-
     public int getCantNiños()
     {
         return this.cantNiños;
@@ -25,6 +24,4 @@ public class Habitacion {
         int total = cantAdultos+cantNiños;
         return total;
     }
-
-
 }
