@@ -9,6 +9,7 @@ public class Main {
 
         Hotel hotel = new Hotel();
         hotel.cargarCantidadHabitacion(8);
+
         hotel.cargarHabitacion(2,5);
         hotel.cargarHabitacion(1,1);
         hotel.cargarHabitacion(3,5);
